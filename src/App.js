@@ -48,6 +48,7 @@ function App(){
                     <span>{cep.logradouro}</span>
                     <span>{cep.bairro}</span>
                     <span>{cep.localidade} - {cep.uf}</span>
+                    <span>DDD: {cep.ddd}</span>
                </main>
             )}
         </div>
